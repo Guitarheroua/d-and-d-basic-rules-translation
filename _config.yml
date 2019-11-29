@@ -31,9 +31,6 @@ repo: "https://github.com/Guitarheroua/d-and-d-basic-rules-translation"
 github_user: "guitarheroua"
 github_repo: "d-and-d-basic-rules-translation"
 
-# Should there be feedback buttons at the bottom of pages?
-feedback: true
-
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
 
