@@ -8,7 +8,7 @@ permalink: /
 
 ## Частини
 
-1. [Вступ](Introduction.md)
+1. [Вступ](001-introduction.md)
 2. [Частина 1: Створення Персонажа](Part1CreatingACharacter.md)
 3. [Частина 2: Playing The Game](Part2PlayingTheGame.md)
 4. [Частина 3: The Rules Of Magic](Part3TheRulesOfMagic.md)
