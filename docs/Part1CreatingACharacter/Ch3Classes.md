@@ -791,4 +791,4 @@ nav_order: 3
 
 <!--Image links ref-->
 
-[p1_c3_1]: ../../assets/images/sp1_c3_1.jpg
+[p1_c3_1]: ../../assets/images/p1_c3_1.jpg
