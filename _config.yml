@@ -16,7 +16,7 @@
 title: Базові Правила D&D
 description: Переклад базових правил D&D українською
 baseurl: "/d-and-d-basic-rules-translation" # the subpath of your site, e.g. /blog
-url: "https://guitarheroua.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guitarheroua.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: "/assets/images/just-the-docs.png"
 
