@@ -31,6 +31,8 @@ layout: table_wrappers
     <div class="main-content-wrap js-main-content" tabindex="0">
       <div class="main-content">
         <div class="page-header js-page-header">
+          {% include algolia.html %}
+          <div id="search-searchbar"></div>
           {% if site.search_enabled != false %}
           <div class="search">
             <div class="search-input-wrap">
@@ -97,6 +99,5 @@ layout: table_wrappers
       </div>
     </div>
   </div>
-
 </body>
 </html>

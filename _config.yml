@@ -27,10 +27,15 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 #logo: "/assets/images/just-the-docs.png"
 
 # Enable or disable the site search
-search_enabled: true
+search_enabled: false
 
 # Set the search token separator for hyphenated-word search:
 search_tokenizer_separator: /[\s/]+/
+
+algolia:
+  application_id: ETIHINWDQW
+  index_name: dandbasicrulestranslation # You can replace that with whatever name you want
+  search_only_api_key: 61da08c7181eb183ec2e2855e84f26be
 
 # Enable or disable heading anchors
 heading_anchors: true
